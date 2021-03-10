@@ -1,6 +1,7 @@
 # "Observing, Defining, and Assessing the Consequences of Snow Drought" by Gottlieb &amp; Mankin (BAMS, 2021)
 
-This directory contains all of the data and code to produce the numerical values and figures reported in the manuscript.
+This directory contains all of the data and code to produce the numerical values and figures reported in the manuscript. Users can create a virtual environment with the `python` packages necessary to perform all analysis using the included `environment.yml` file:
+`conda create -f environment.yml`
 
 In addition to providing the analysis-ready observational ensembles of snowpack, we provide links to download all of the underlying data in the table below. Code for preprocessing (e.g., converting units, resampling, reprojecting, aggregating to basin-scale) the raw data is available in the `notebooks/data_prep` folder, with one file for each dataset.
 
