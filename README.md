@@ -15,7 +15,7 @@ In addition to providing the analysis-ready observational ensembles of snowpack,
 | NASA GLDAS-2 | Reanalysis | 0.25° x 0.25° | Global | 3-hourly | 2000-present | https://disc.gsfc.nasa.gov/datasets?keywords=GLDAS | wget (NASA Earthdata account required) |
 | NASA NLDAS | Reanalysis | 0.125° x 0.125° | CONUS | Hourly | 1979-present  | https://disc.gsfc.nasa.gov/datasets?keywords=NLDAS | wget (NASA Earthdata account required) |
 | NASA MERRA-2 | Reanalysis | 0.5° x 0.625° | Global | Daily | 1980-present | https://disc.gsfc.nasa.gov/datasets?project=MERRA-2 | wget (NASA Earthdata account required) |
-| JRA-55 | Reanalysis | 4km | Global | 3-hourly | 1958-present | https://rda.ucar.edu/datasets/ds628.0/index.html\#!access | wget (UCAR RDA account required) |
+| JRA-55 | Reanalysis | 55km | Global | 3-hourly | 1958-present | https://rda.ucar.edu/datasets/ds628.0/index.html\#!access | wget (UCAR RDA account required) |
 | NOHRSC SNODAS | Reanalysis | 1km | CONUS | Daily | 2003-present | https://nsidc.org/data/g02158 | wget |
 | University of Arizona | Interpolated in situ | 4km | CONUS | Daily | 1981-2017 | https://nsidc.org/data/nsidc-0719 | wget (NASA Earthdata account required) |
 | DayMet | Reanalysis | 1km | North America | Daily | 1980-present | https://daymet.ornl.gov/getdata | wget |
